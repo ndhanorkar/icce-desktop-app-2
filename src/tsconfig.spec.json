@@ -10,15 +10,10 @@
   },
   "files": [
     "test.ts",
-    "polyfills-test.ts"
+    "polyfills.ts"
   ],
   "include": [
     "**/*.spec.ts",
     "**/*.d.ts"
-  ],
-  "exclude": [
-    "dist",
-    "app-builds",
-    "node_modules"
   ]
 }
